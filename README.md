@@ -1,2 +1,2 @@
 # first_website
-first website projcet.
+first website project.
